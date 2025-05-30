@@ -3,3 +3,11 @@ Pembuatan bot absensi dengan telegram
 
 
 Token telebot : 7863287645:AAG3Py0GsxmbwgVuxPvXtzK3HcxRN_o8Um8
+
+
+# Create venv 
+python -m venv venv
+
+
+# Install Lib for bot
+
